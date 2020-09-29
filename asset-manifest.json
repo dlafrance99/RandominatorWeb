@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RandominatorWeb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RandominatorWeb/static/js/main.26da7e11.chunk.js",
+    "main.js.map": "/RandominatorWeb/static/js/main.26da7e11.chunk.js.map",
+    "runtime-main.js": "/RandominatorWeb/static/js/runtime-main.5913547f.js",
+    "runtime-main.js.map": "/RandominatorWeb/static/js/runtime-main.5913547f.js.map",
+    "static/js/2.98ffee18.chunk.js": "/RandominatorWeb/static/js/2.98ffee18.chunk.js",
+    "static/js/2.98ffee18.chunk.js.map": "/RandominatorWeb/static/js/2.98ffee18.chunk.js.map",
+    "index.html": "/RandominatorWeb/index.html",
+    "precache-manifest.f741ce552888e5b599f876c93a76dc39.js": "/RandominatorWeb/precache-manifest.f741ce552888e5b599f876c93a76dc39.js",
+    "service-worker.js": "/RandominatorWeb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RandominatorWeb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.98ffee18.chunk.js.LICENSE.txt": "/RandominatorWeb/static/js/2.98ffee18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5913547f.js",
+    "static/js/2.98ffee18.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.26da7e11.chunk.js"
+  ]
+}
