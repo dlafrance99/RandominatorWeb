@@ -4,7 +4,7 @@ Randominator Web is the marketing and support website for the mobile application
 
 ## Running the app
 
-The app isn't currently running anywhere.
+https://dlafrance99.github.io/RandominatorWeb/
 
 ## Organization:
 
